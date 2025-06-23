@@ -10,7 +10,7 @@ Coco is a **simple yet delightful web project** designed to celebrate a special 
 
 ## 🚀 Live Demo  
 
-🎉 **Experience the celebration here:** [Live Deno](https://mohidul-hq.github.io/birthday/)  
+🎉 **Experience the celebration here:** [Live Demo](https://mohidul-hq.github.io/birthday/)  
 
 ## 📂 Project Structure  
 
